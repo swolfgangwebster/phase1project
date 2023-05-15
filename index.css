@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: white
+
+}
+
+h1 {
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    color:red;
+}
+
+
+select, input {
+    font-size: x-large;
+    text-align: center;
+    background-color: black;
+    color:rgb(253, 189, 100);
+    margin-left: 0px;
+    margin-right: 10px;
+    border: 10px, solid;
+    border-color: rgb(199, 132, 244);
+
+}
+
+div#selectors {
+    text-align: center;
+    
+    background-color: rgb(0, 0, 0);
+    border-color: black;
+
+    border-style:solid;
+    padding-left: 3px;
+    padding-right: 3px;
+    border-radius: 5px;
+}
+
+.card::-webkit-scrollbar {
+    background: none;
+}
+
+.card::-webkit-scrollbar-corner {
+    background: none;
+}
+
+div.card:hover {
+    transition: transform 2s;
+    transform: scale(1.1,1.1)
+
+}
+
+div.card:hover {
+    /* transition: 1.5s; */
+    background: black;
+    color: red;
+}
+
+
+
+div.card {
+    width: 350px;
+    height: 250px;
+    float:left;
+    overflow:scroll;
+    margin: 5px;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+
+    background-color: rgb(196, 145, 244);
+    background: linear-gradient(90deg, 
+    rgb(199, 132, 244) 0%,
+    rgb(250, 89, 89) 50%,
+    rgb(253, 189, 100) 100%);
+    font-size: larger;
+
+    border-style:solid;
+    border-radius: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+}
+
