@@ -31,7 +31,7 @@ Hovering over a spell card slightly enlarges it, and
  NOTE: CLICKING A CARD WILL DELETE IN FROM THE DOM
  
  ## Limitations
- -No saving/n
+ -No saving\n
  -Much resubmit query to regain deleted cards
  -No load progress indicator
  -Ritual tag and components not included in query or spell card
