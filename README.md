@@ -12,6 +12,8 @@ Create a simple site to query DnD spells based on criteria,
     the list of spells available to a given class are listed
     seperately from the actual descriptions of the spells. This 
     is a much more convenient way to browse spells.
+    
+## Details
 
 This respository's code generated a website that used the DnD5e API
   to let the user query the spells available to them given a 
@@ -27,4 +29,12 @@ Hovering over a spell card slightly enlarges it, and
   doesn't fit in visible area
   
  NOTE: CLICKING A CARD WILL DELETE IN FROM THE DOM
+ 
+ ## Limitations
+ -No saving
+ -Much resubmit query to regain deleted cards
+ -No load progress indicator
+ -Ritual tag and components not included in query or spell card
+ -Cannot select multiple schools, unless 'Any' is selected
+ -Min and max spell level do not check if range makes logic sense
  
