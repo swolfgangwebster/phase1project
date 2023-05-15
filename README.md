@@ -33,7 +33,7 @@ Hovering over a spell card slightly enlarges it, and
  ## Limitations
  -No saving
  
- -Much resubmit query to regain deleted cards
+ -Must resubmit query to regain deleted cards
  
  -No load progress indicator
  
