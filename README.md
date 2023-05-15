@@ -1,10 +1,10 @@
 # phase1project
 
-##Goal
+## Goal
 Create a simple site to query DnD spells based on criteria, 
   and be able to easily delete unwanted spells from the window.
 
-##Use Case
+## Use Case
   Assist in deciding what spells to take in DnD when creating 
     a character, leveling up a character, or completing a rest
     that allows you to choose new spells
